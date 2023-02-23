@@ -1,0 +1,8 @@
+keras==2.2.4
+Flask==1.0.3
+tensorflow==1.12.0
+OWSLib==0.17.1
+tqdm==4.31.1
+opencv-python==4.0.0.21
+matplotlib
+Pillow==5.4.1
